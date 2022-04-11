@@ -18,7 +18,7 @@ hunger and it will be having a positive impact on our nation.
 
 ## Working of the application
 
-![Flow Chart](https://drive.google.com/file/d/1sTH4Gpic-t8e0xQvSyWm0P9WOJw8O7Is/view?usp=sharing)
+<!-- ![Flow Chart](https://drive.google.com/file/d/1sTH4Gpic-t8e0xQvSyWm0P9WOJw8O7Is/view?usp=sharing) -->
 
 ## Tech Stack 📚
 
