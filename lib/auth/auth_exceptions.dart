@@ -1,0 +1,1 @@
+class TextFieldEmptyException implements Exception {}
