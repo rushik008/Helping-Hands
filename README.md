@@ -1,5 +1,5 @@
 # Helping Hands - Share What You Can Spare
-
+  
 Team Members:
 - [Parth Rathod](https://github.com/Parth0921)
 - [Ayush Shah]()
@@ -17,9 +17,9 @@ into waste. This very food can be used productively to suffice a family’s
 hunger and it will be having a positive impact on our nation.
 
 ## Working of the application
-
-![sign up](https://user-images.githubusercontent.com/101036053/163412549-dc58d306-d8fb-4812-8f5f-007d354154ec.jpg width="200" height="400")
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/101036053/163412549-dc58d306-d8fb-4812-8f5f-007d354154ec.jpg" width="250">
+</p>
 
 ## Tech Stack 📚
 
