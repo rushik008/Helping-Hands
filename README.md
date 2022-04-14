@@ -18,8 +18,8 @@ hunger and it will be having a positive impact on our nation.
 
 ## Working of the application
 
-[conact us](https://user-images.githubusercontent.com/101036053/163412428-91775ae0-7c2e-4fb0-b2f6-c683f8d8a30b.jpg)
-co/YPxhp1L)
+![sign up](https://user-images.githubusercontent.com/101036053/163412549-dc58d306-d8fb-4812-8f5f-007d354154ec.jpg)
+
 
 ## Tech Stack 📚
 
