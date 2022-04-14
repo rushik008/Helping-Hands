@@ -17,9 +17,10 @@ into waste. This very food can be used productively to suffice a family’s
 hunger and it will be having a positive impact on our nation.
 
 ## Working of the application
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/101036053/163412549-dc58d306-d8fb-4812-8f5f-007d354154ec.jpg" width="250">
-</p>
+</p> -->
+<img src="https://user-images.githubusercontent.com/101036053/163417316-af6a0458-033e-4e86-8d64-896573cd6fd5.jpeg" width="650">
 
 ## Tech Stack 📚
 
