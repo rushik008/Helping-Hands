@@ -29,7 +29,8 @@ hunger and it will be having a positive impact on our nation.
 - [Firebase](https://firebase.google.com/)
 
 ## Project Report 🎥
+<!-- 
+- [Project Report](https://drive.google.com/file/d/1LwXPveS-3T2j1GSpSoLrP6KU3YqY55OC/view?usp=sharing) -->
 
-- [Project Report](https://drive.google.com/file/d/1LwXPveS-3T2j1GSpSoLrP6KU3YqY55OC/view?usp=sharing)
-
+- [Helping Hands.pdf](https://github.com/rushik008/Helping-Hands/files/8499260/SGP_Report_Helping_Hands.pdf)
 
